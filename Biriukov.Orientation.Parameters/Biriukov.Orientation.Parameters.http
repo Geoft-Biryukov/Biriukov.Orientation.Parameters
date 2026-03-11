@@ -1,0 +1,6 @@
+@Biriukov.Orientation.Parameters_HostAddress = http://localhost:5017
+
+GET {{Biriukov.Orientation.Parameters_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
